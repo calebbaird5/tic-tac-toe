@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "PUBLIC_URL=/2048-react BUILD_PATH=./docs react-scripts build",
+    "build": "PUBLIC_URL=/tic-tac-toe BUILD_PATH=./docs react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
